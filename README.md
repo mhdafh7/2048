@@ -1,2 +1,3 @@
 # 2048
- Classic 2048 game clone made using vanilla js and scss.
+
+A clone of classic game 2048 using vanilla js and scss.
